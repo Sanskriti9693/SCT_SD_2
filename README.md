@@ -15,5 +15,7 @@ C++
 iostream library
 cstdlib (for random number generation)
 ctime (for seeding random function)
+
+
 👩‍💻 Author
 Sanskriti kumari
